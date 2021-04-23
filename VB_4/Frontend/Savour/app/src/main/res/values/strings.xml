@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Savour</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_search">Search</string>
+    <string name="title_weekly_plan">Weekly Plan</string>
+    <string name="title_grocery_list">Grocery List</string>
+    <string name="title_profile">Profile</string>
+    <string name="search_title">search</string>
+    <string name="search_hint">Search</string>
+    <string name="title_activity_search_results">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_result">ScrollingActivity</string>
+    <string name="breakfast_category_button">B-Fast</string>
+    <string name="lunch_category_button">Lunch</string>
+    <string name="dinner_category_button">Dinner</string>
+    <string name="drinks_category_button">Drinks</string>
+    <string name="snacks_category_button">Snacks</string>
+    <string name="dessert_category_button">Dessert</string>
+    <string name="category">Category</string>
+    <string name="trending">Trending</string>
+    <string name="ingredient_item_amount">%1$f %2$s</string>
+    <string name="recipe_cooking_time_hms">Cooking Time: %1$dh%2$dm%3$ds</string>
+    <string name="recipe_card_category">Category: %1$s</string>
+    <string name="recipe_card_cost">Cost: $%.2f</string>
+    <string name="recipe_card_ingredients">Ingredients: %1$s</string>
+    <string name="recipe_card_cooking_time">Cooking Time: %1$dm%2$ds</string>
+    <string name="preference_file_key">com.vb4.savour.preferences</string>
+    <string name="preference_file_token_key">com.vb4.savour.preferences.token</string>
+    <string name="action_search">Search</string>
+    <string name="search">Search</string>
+    <string-array name="recipe_categories_array">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+    </string-array>
+    <string name="view_recipe_cooking_time">%1$dm%2$ds</string>
+    <string name="view_recipe_cost">$%.2f</string>
+    <string name="title_login">Login</string>
+    <string name="breakfast_weekly_plan_label">BREAKFAST</string>
+    <string name="lunch_weekly_plan_label">LUNCH</string>
+    <string name="dinner_weekly_plan_label">DINNER</string>
+    <string name="edit_weekly_plan">Edit Your Weekly Plan</string>
+    <string name="edit_description_weekly_plan">Select menu items to delete.\nClick edit icon when finished.</string>
+</resources>

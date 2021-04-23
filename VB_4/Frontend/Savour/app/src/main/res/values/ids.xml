@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="searchRelativeLayout" type="id"></item>
+    <item name="breakfast_button" type="id"></item>
+    <item name="lunch_button" type="id"></item>
+    <item name="dinner_button" type="id"></item>
+    <item name="drink_button" type="id" />
+    <item name="snacks_button" type="id" />
+    <item name="dessert_button" type="id" />
+</resources>

@@ -1,0 +1,5 @@
+com.savour.savourbackend
+com.savour.savourbackend.RESTControllers
+com.savour.savourbackend.model
+com.savour.savourbackend.repository
+com.savour.savourbackend.services

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/title_discover" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_weekly_plan"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/title_weekly_plan" />
+
+    <item
+        android:id="@+id/navigation_grocery_list"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        android:title="@string/title_grocery_list" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/title_profile" />
+
+</menu>
